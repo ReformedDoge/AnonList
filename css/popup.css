@@ -1,0 +1,59 @@
+body {
+    width: 470px;
+    margin: 0;
+    white-space: nowrap;
+    background: linear-gradient(331.91deg,#47c0fc 4.31%,#9586ef 130.13%);
+    
+}
+
+
+::-webkit-scrollbar {
+    width: 0px;
+    height: 0px;
+    background-color: transparent
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: rgba(4, 4, 4, .104)
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+a, .import-button {
+    text-decoration: none;
+    background: #91a1fc;
+    color: #000;
+    display: block;
+    padding:0 15px;
+    line-height: 40px;
+    text-align: center;
+    cursor: pointer;
+}
+.import-button:hover, a:hover {
+    color: #fff;
+}
+ul li ul {
+    display: none;
+}
+ul li:hover ul {
+    display: block;
+}
+ul li ul li {
+    background: #eee;
+    margin-top: 2px;
+}
+
+.topright {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+    font-size: 18px;
+}
+
+input[type="file"] {
+    display: none;
+}
