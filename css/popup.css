@@ -23,7 +23,7 @@ ul {
     margin: 0;
 }
 
-a, .import-button {
+a.backupHover, .import-button {
     text-decoration: none;
     background: #91a1fc;
     color: #000;
