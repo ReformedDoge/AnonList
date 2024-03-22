@@ -2,9 +2,7 @@
 
 AnonList is a Chrome extension designed to enhance your YouTube experience by providing anonymous playlist management features. With AnonList, you can create, customize, and manage playlists without the need to sign in to a YouTube or Google account.
 
-<div style="text-align:center">
-    ![AnonList Extension](https://i.imgur.com/BuIsR7U.png)
-</div>
+[AnonList Extension](https://i.imgur.com/BuIsR7U.png)
 
 ## Installation
 
